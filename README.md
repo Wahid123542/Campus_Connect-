@@ -1,7 +1,7 @@
 # Campus Connect - Frontend (React + Vite)
 
 ## 🚀 Live Demo
-**[View Live Demo on Vercel](YOUR_VERCEL_LINK_HERE)**
+**[View Live Demo on Vercel](https://vercel.com/wahid123542s-projects/campus-connect/BQhGrbqL6VP1cg2WXPy5d7ZUSgQW)**
 
 ## 📸 Screenshots
 
