@@ -1,5 +1,30 @@
 # Campus Connect - Frontend (React + Vite)
 
+## 🚀 Live Demo
+**[View Live Demo on Vercel](YOUR_VERCEL_LINK_HERE)**
+
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Events Page
+![Events Page](screenshots/events.png)
+
+### Organizations Page
+![Organizations Page](screenshots/organizations.png)
+
+### Tusk AI Chatbot
+![Chatbot](screenshots/chatbot.png)
+
+### Login Page
+![Login Page](screenshots/login.png)
+
+### Signup Page
+![Signup Page](screenshots/signup.png)
+
+---
+
 ## Overview
 React-based frontend for Campus Connect, a web platform for University of Arkansas students featuring event discovery, student organizations, and an AI chatbot assistant (Tusk the Razorback).
 
@@ -104,6 +129,3 @@ Access the app at `http://localhost:5173`
 ## Contributors
 **Wahid Sultani** - Full Stack Developer  
 GitHub: [@Wahid123542](https://github.com/Wahid123542)
-
-## License
-MIT License
