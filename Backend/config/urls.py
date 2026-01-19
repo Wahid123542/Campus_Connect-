@@ -6,13 +6,18 @@ from rest_framework.routers import DefaultRouter
 from users.views import UserViewSet
 from events.views import EventViewSet
 from organizations.views import OrganizationViewSet
+from django.http import HttpResponse
 
 router = DefaultRouter()
 router.register(r"users", UserViewSet, basename="user")
 router.register(r"events", EventViewSet, basename="event")
 router.register(r"organizations", OrganizationViewSet, basename="organization")
 
+def home(request):
+    return HttpResponse("Campus Connect Backend is live!")
+
 urlpatterns = [
+    path("", home),  # <-- NEW ROUTE
     path("admin/", admin.site.urls),
     path("api/", include(router.urls)),
     path("api-auth/", include("rest_framework.urls")),
