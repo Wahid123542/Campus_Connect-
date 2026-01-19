@@ -107,5 +107,4 @@ Access admin panel at `http://localhost:8000/admin`
 **Wahid Sultani** - Full Stack Developer  
 GitHub: [@Wahid123542](https://github.com/Wahid123542)
 
-## License
-MIT License
+
